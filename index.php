@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>SELAMAT DATANG</h2>
+        <h2>SELAMAT DATANG DI TOKO RAHMAT </h2>
     </div>
     <div class="btn">
         <form action="" method="post">
